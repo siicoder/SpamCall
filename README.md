@@ -1,10 +1,10 @@
-# SpamCall
-$ pkg install php
-$ pkg install git
-$ git clone https://github.com/siicoder/SpamCall
-$ cd SpamCall
-$ php SpamCall.php
-
-Happy Spamming
-tutorial ? Find in http://www.yaelahfal.com/
+# SpamCall <br>
+$ pkg install php <br>
+$ pkg install git <br>
+$ git clone https://github.com/siicoder/SpamCall <br>
+$ cd SpamCall <br>
+$ php SpamCall.php <br>
+<br>
+Happy Spamming <br>
+tutorial ? Find in http://www.yaelahfal.com/ <br>
 Have a nice day !
